@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cardano.Core\Cardano.Core.csproj" />
+    <ProjectReference Include="..\Cardano.Json\Cardano.Json.csproj" />
+    <ProjectReference Include="..\Cardano.Models\Cardano.Models.csproj" />
+  </ItemGroup>
+
+</Project>

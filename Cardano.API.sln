@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardano.Models", "Cardano.Models\Cardano.Models.csproj", "{5BF82866-7C69-48D8-B3A9-F842FF375438}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardano.Json", "Cardano.Json\Cardano.Json.csproj", "{35DF2F27-18D9-4C4F-B442-D68BFB57B18F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardano.Http", "Cardano.Http\Cardano.Http.csproj", "{6CED8246-B307-4D20-99F4-7DFFDC941575}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardano.Core", "Cardano.Core\Cardano.Core.csproj", "{636BC3B3-A64E-4CAD-94B8-46DA23C24BC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cardano.Explorer.Rest.Api", "Cardano.Explorer.Rest.Api\Cardano.Explorer.Rest.Api.csproj", "{F5464C97-C58A-49F4-9851-19811C0D7AEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestManager", "RequestManager\RequestManager.csproj", "{06CCF37A-6587-4AD5-BD2C-2924E5A7285F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF82866-7C69-48D8-B3A9-F842FF375438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF82866-7C69-48D8-B3A9-F842FF375438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF82866-7C69-48D8-B3A9-F842FF375438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF82866-7C69-48D8-B3A9-F842FF375438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DF2F27-18D9-4C4F-B442-D68BFB57B18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DF2F27-18D9-4C4F-B442-D68BFB57B18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DF2F27-18D9-4C4F-B442-D68BFB57B18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DF2F27-18D9-4C4F-B442-D68BFB57B18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CED8246-B307-4D20-99F4-7DFFDC941575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CED8246-B307-4D20-99F4-7DFFDC941575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CED8246-B307-4D20-99F4-7DFFDC941575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CED8246-B307-4D20-99F4-7DFFDC941575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636BC3B3-A64E-4CAD-94B8-46DA23C24BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636BC3B3-A64E-4CAD-94B8-46DA23C24BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636BC3B3-A64E-4CAD-94B8-46DA23C24BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636BC3B3-A64E-4CAD-94B8-46DA23C24BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5464C97-C58A-49F4-9851-19811C0D7AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5464C97-C58A-49F4-9851-19811C0D7AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5464C97-C58A-49F4-9851-19811C0D7AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5464C97-C58A-49F4-9851-19811C0D7AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CCF37A-6587-4AD5-BD2C-2924E5A7285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CCF37A-6587-4AD5-BD2C-2924E5A7285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CCF37A-6587-4AD5-BD2C-2924E5A7285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CCF37A-6587-4AD5-BD2C-2924E5A7285F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F233D6A7-AE31-4D5B-8AC9-C2E77B3783AA}
+	EndGlobalSection
+EndGlobal
