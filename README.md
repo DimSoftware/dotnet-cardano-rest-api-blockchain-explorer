@@ -9,6 +9,8 @@ cardano-rest: https://github.com/input-output-hk/cardano-rest
 
 cardano-rest wiki documentation using docker: https://github.com/input-output-hk/cardano-rest/wiki/Docker 
 
+All requests information is here: https://input-output-hk.github.io/cardano-rest/explorer-api/
+
 Usage:
 
 <b>1. Initialize</b>
